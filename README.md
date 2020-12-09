@@ -5,7 +5,7 @@
 * Term project report PDF
 * Power point presentation - material for a few minutes presentation
 * Knime workflow file
-* Source files, which contains 
+* Source files, which contains tables of GDPPC, the population, European countries ependiture on sports and Olympic medals
 * SQL Script about loading data
 
 ## Reproducibility
