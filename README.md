@@ -6,8 +6,7 @@
 * Power point presentation - material for a few minutes presentation
 * Knime workflow file
 * Source files, which contains 
-* Script (or instructions) of data persistence (sql file in case of a RDBMS)
-* white_check_mark
+* SQL Script about loading data
 
 ## Reproducibility
 Here are the steps to reproduce the full workflow
